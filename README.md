@@ -1,7 +1,7 @@
 <h1 align="center">Healthcare Provider Billing Dashboard</h1>
 
 <p align="center">
-  <img src="dashboard_views/light_mode.png" width="800">
+  <img src="dashboard_visuals/light_mode.png" width="800">
 </p>
 
 ## Business Problem
@@ -16,11 +16,11 @@ Healthcare providers need a clear view of where billing revenue comes from and h
 
 **Dark Mode**
 
-<img src="dashboard_views/dark_mode.png" width="800">
+<img src="dashboard_visuals/dark_mode.png" width="800">
 
 **Filter Panel**
 
-<img src="dashboard_views/filter_panel.png" width="800">
+<img src="dashboard_visuals/filter_panel.png" width="800">
 
 ## Data & Tools
 
