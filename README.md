@@ -25,7 +25,7 @@ Healthcare providers need a clear view of where billing revenue comes from and h
 ## Data & Tools
 
 - **Tool**: Power BI
-- **Dataset**: https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRXNlai1nX2ZDekpKMEdrQ3BkdGpYbXxBTl9pYzRkM0tmbmp0eVlEN0tpaGJlSndEM0s3YkIxeDlIVDlzVG5qTW1mVmtQS2dZMnotOVgtN3gteWNrM0thMEtFem9McmJvVUtFZ1o0dklQOGRTQkp0OVZPMktlMW52aEJU&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1EtNAUvnmik4yBdFy1_mvFMm3mV83eExQ%2Fview%3Fusp%3Dsharing&v=hm4Iq2Mm2pQ
+- **Dataset**: [Healthcare provider billing data](https://drive.google.com/file/d/1EtNAUvnmik4yBdFy1_mvFMm3mV83eExQ/view?usp=sharing)
 - **Features**: KPI cards, city and state map switch, filter panel, dark mode toggle
 
 ## Key Insights
