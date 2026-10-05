@@ -16,7 +16,7 @@ Healthcare providers need a clear view of where billing revenue comes from and h
 
 **Dark Mode**
 
-<img src="Dashboard_Visuals/dark_mode.png" width="800">
+<img src="Dashboard_Visuals/Dark_mode.png" width="800">
 
 **Filter Panel**
 
